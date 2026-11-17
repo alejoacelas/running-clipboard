@@ -1,5 +1,6 @@
 # running-clipboard
 
+Tags: mac, hammerspoon
 Scope: TODO
 
 - Visibility: public
